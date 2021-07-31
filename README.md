@@ -1,7 +1,7 @@
 ## About ME
 - 👋 Hi, I’m @prashasth-nair
 - 👀 I’m interested in Programming,Networking, Web develpment and Ethical hacking
-- 💻 I can code in Python, Java and Javascript
+- 💻 I can code in Python, Java and C
 - 🌱 I’m currently learning Android Development
 
 ## Contact ME
