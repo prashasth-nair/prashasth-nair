@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/prashasth-nair](https://github.com/prashasth-nair)
 
-- 💬 Ask me about **Python, Java, C, javascript,C#**
+- 💬 Ask me about **Python, Java, C, HTML, CSS, javascript, C#**
 
 - 📫 How to reach me **prashasthnair@gmail.com**
 
@@ -26,7 +26,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashasth-nair&show_icons=true&locale=en&layout=compact&theme=dracula" alt="prashasth-nair" /></p>
+<p><img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashasth-nair&show_icons=true&locale=en&layout=compact&theme=dracula" alt="prashasth-nair" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashasth-nair&show_icons=true&locale=en&theme=dracula" alt="prashasth-nair" /></p>
 
