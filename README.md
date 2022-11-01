@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashasth-nair&theme=dracula" alt="prashasth-nair" /></a> </p>
 
-- 🔭 I’m currently working on [PassGen](https://github.com/prashasth-nair/PassGen)
+- 🔭 I’m currently working on [Sweet-Home](https://github.com/prashasth-nair/Sweet-Home)
 
-- 🌱 I’m currently learning **Android Development and C.**
+- 🌱 I’m currently learning **Web Development and C#.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/prashasth-nair](https://github.com/prashasth-nair)
 
-- 💬 Ask me about **Python, Java, C**
+- 💬 Ask me about **Python, Java, C, javascript,C#**
 
 - 📫 How to reach me **prashasthnair@gmail.com**
 
@@ -31,21 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashasth-nair&show_icons=true&locale=en&theme=dracula" alt="prashasth-nair" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashasth-nair&theme=dracula" alt="prashasth-nair" /></p>
-
-<!-- ## About ME
-- 👋 Hi, I’m @prashasth-nair
-- 👀 I’m interested in Programming,Networking, Web develpment and Ethical hacking
-- 💻 I can code in Python, Java and C
-- 🌱 I’m currently learning Android Development
-
-## Contact ME
-
- - [Twitter](https://twitter.com/Prashasth_nair)
- - [LinkedIn ](https://www.linkedin.com/in/prashasth-nair-277a66194) -->
-
-<!--- 📫 How to reach me ...--->
-
-<!---
-prashasth-nair/prashasth-nair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
