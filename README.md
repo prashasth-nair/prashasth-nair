@@ -12,7 +12,7 @@
 
 - I’m currently working on **AnimePeak**, where You can watch Anime for free without ads.🔭 
 
-- 🌱 I’m currently learning **Web Development** and **Flutter** to broaden my skill set.
+- 🌱 I’m currently learning **Networking** and **Flutter** to broaden my skill set.
 
 - 👨‍💻 All of my projects are available at [**github.com/prashasth-nair**](https://github.com/prashasth-nair). Feel free to explore and contribute!
 
