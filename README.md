@@ -12,15 +12,16 @@
 
 - I’m currently working on **AnimePeak**, where You can watch Anime for free without ads.🔭 
 
-- 🌱 I’m currently learning **Networking** and **Flutter** to broaden my skill set.
+- 🌱 I’m currently learning **Networking** and **R Programming** to broaden my skill set.
 
 - 👨‍💻 All of my projects are available at [**github.com/prashasth-nair**](https://github.com/prashasth-nair). Feel free to explore and contribute!
 
-- 💬 Ask me about **Python, Java, C, HTML, CSS, JavaScript, C#, Kotlin**. I love discussing and sharing knowledge about these technologies.
+- 💬 Ask me about **Python, Java, C, HTML, CSS, JavaScript, C#, Kotlin, Flutter, R Programming**. I love discussing and sharing knowledge about these technologies.
 
 - 📫 Reach out to me at **prashasthnair@gmail.com**. I'm always open to collaboration and interesting discussions.
 
 - 🚀 Let's code, learn, and grow together in the world of technology! 🌟
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -53,6 +54,21 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+  </a> 
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
+  </a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+  </a> 
 </p>
 <p align="left">
   
@@ -71,8 +87,31 @@
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>
   </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
+  <a href="https://dart.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
+  </a> 
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+  </a> 
+   <a href="https://appwrite.io" target="_blank" rel="noreferrer"> 
+     <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> 
+   </a>
+   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+   </a> 
+   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
+     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
+   </a> 
+   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
+   </a> 
+   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
+     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
+   </a>
 </p>
+
+
+
 
 <h3 align="left">Github States:</h3>
 
