@@ -1,5 +1,4 @@
 # Hi there! 👋
-
 ## I'm Prashasth Nair
 
 ### A Passionate Cybersecurity Enthusiast and Programmer
@@ -120,6 +119,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashasth-nair&show_icons=true&locale=en&theme=dracula&bg_color=0d1117&border_radius=10" alt="prashasth-nair" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashasth-nair&theme=dracula&background=0d1117&border_radius=10" alt="prashasth-nair" /></p>
+
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=prashasth&theme=dracula&background=0d1117&border_radius=10&langs_count=7)
+
 
 <h3 align="left">Support Me:</h3>
 <p><a href="https://ko-fi.com/prashasthnair"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="35" width="150" alt="prashasthnair" /></a></p>
