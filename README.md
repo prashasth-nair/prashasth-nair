@@ -114,13 +114,16 @@
 
 <h3 align="left">Github States:</h3>
 
-<p><img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashasth-nair&show_icons=true&locale=en&layout=donut&theme=dracula&langs_count=5&bg_color=0d1117&border_radius=10" alt="prashasth-nair" /></p>
+<p><img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashasth-nair&show_icons=true&locale=en&layout=donut&theme=dracula&langs_count=5&bg_color=0d1117&border_radius=10" alt="prashasth-nair" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashasth-nair&show_icons=true&locale=en&theme=dracula&bg_color=0d1117&border_radius=10" alt="prashasth-nair" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashasth-nair&show_icons=true&locale=en&theme=dracula&bg_color=0d1117&border_radius=10&line_height=33" alt="prashasth-nair" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashasth-nair&theme=dracula&background=0d1117&border_radius=10" alt="prashasth-nair" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashasth-nair&theme=dracula&background=0d1117&border_radius=10&size_weight=0.2" alt="prashasth-nair" /></p>
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=prashasth&theme=dracula&background=0d1117&border_radius=10&langs_count=7)
+## This month I spent my time on:
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=prashasth&theme=dracula&background=0d1117&border_radius=10&langs_count=7" alt="prashasth-nair" />
+
 
 
 <h3 align="left">Support Me:</h3>
