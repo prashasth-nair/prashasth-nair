@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [**github.com/prashasth-nair**](https://github.com/prashasth-nair). Feel free to explore and contribute!
 
-- 💬 Ask me about **Python, Java, C, HTML, CSS, JavaScript, C#, Kotlin, Flutter, R Programming**. I love discussing and sharing knowledge about these technologies.
+- 💬 Ask me about **Python, Java, C, HTML, CSS, JavaScript, C#, Kotlin, Rust, Flutter, R Programming**. I love discussing and sharing knowledge about these technologies.
 
 - 📫 Reach out to me at **prashasthnair@gmail.com**. I'm always open to collaboration and interesting discussions.
 
@@ -121,10 +121,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=prashasth&theme=dracula&background=0d1117&border_radius=10&langs_count=7" alt="prashasth-nair" />
 
-
-
 <h3 align="left">Support Me:</h3>
 <p><a href="https://ko-fi.com/prashasthnair"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="35" width="150" alt="prashasthnair" /></a></p>
 
 <p><a href="https://github.com/sponsors/prashasth-nair"> <img align="left" src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" height="35" width="150" alt="prashasthnair" /></a></p><br><br>
-
