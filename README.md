@@ -111,11 +111,11 @@
 
 <h3 align="left">Github States:</h3>
 
-<p><img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashasth-nair&show_icons=true&locale=en&layout=donut&theme=dracula&langs_count=5&bg_color=0d1117&border_radius=10" alt="prashasth-nair" />
+<p><img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashasth-nair&show_icons=true&locale=en&layout=donut&theme=dracula&langs_count=5&border_radius=10" alt="prashasth-nair" />
+  
+<img align="center" src="https://gh-stats.zekker-dev.tk/?username=prashasth-nair&theme=dark" alt="prashasth-nair" />
 
-![Contribution Stats](https://gh-stats.zekker-dev.tk/?username=prashasth-nair&theme=dark)
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashasth-nair&theme=dracula&background=0d1117&border_radius=10&size_weight=0.2" alt="prashasth-nair" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashasth-nair&theme=dracula&border_radius=10&size_weight=0.2" alt="prashasth-nair" /></p>
 
 ## I spent my time on:
 
