@@ -2,7 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=I%20am%20Prashasth%20Nair&reversal=false&textBg=false&desc=A%20Passionate%20Cybersecurity%20Enthusiast%20and%20Programmer&descSize=-1&descAlignY=50&fontAlignY=33"/>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashasth-nair&label=Profile%20views&color=0e75b6&style=flat&theme=dracula" alt="prashasth-nair" /> </p>
+# About Me
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashasth-nair&label=Profile%20views&color=0e75b6&style=flat&theme=dracula&base=1000000" alt="prashasth-nair" /> </p>
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=prashasth-nair&theme=dracula&row=2&column=3" alt="prashasth-nair" /> </p>
 
