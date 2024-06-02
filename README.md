@@ -1,7 +1,6 @@
-# Hi there! 👋
-## I'm Prashasth Nair
-
-### A Passionate Cybersecurity Enthusiast and Programmer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=I%20am%20Prashasth%20Nair&reversal=false&textBg=false&desc=A%20Passionate%20Cybersecurity%20Enthusiast%20and%20Programmer&descSize=-1&descAlignY=50&fontAlignY=33"/>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashasth-nair&label=Profile%20views&color=0e75b6&style=flat&theme=dracula" alt="prashasth-nair" /> </p>
 
@@ -125,3 +124,4 @@
 <p><a href="https://ko-fi.com/prashasthnair"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="35" width="150" alt="prashasthnair" /></a></p>
 
 <p><a href="https://github.com/sponsors/prashasth-nair"> <img align="left" src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" height="35" width="150" alt="prashasthnair" /></a></p><br><br>
+
