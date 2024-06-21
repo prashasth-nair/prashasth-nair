@@ -5,7 +5,7 @@
 # About Me
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashasth-nair&label=Profile%20views&color=0e75b6&style=flat&theme=dracula&base=1000000" alt="prashasth-nair" /> </p>
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=prashasth-nair&theme=dracula&row=2&column=3" alt="prashasth-nair" /> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=prashasth-nair&theme=dracula&row=2&column=4" alt="prashasth-nair" /> </p>
 
 👨‍💻 Welcome to my world of cyber exploration and code crafting! Here's a bit about me: 
 
