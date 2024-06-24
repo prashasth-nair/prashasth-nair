@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [**github.com/prashasth-nair**](https://github.com/prashasth-nair). Feel free to explore and contribute!
 
-- 💬 Ask me about **Python, Java, C, HTML, CSS, JavaScript, C#, Kotlin, Rust, Flutter, R Programming**. I love discussing and sharing knowledge about these technologies.
+- 💬 Ask me about **Python, Java, C, HTML, CSS, JavaScript, C#, Kotlin, Rust, Flutter, R Programming, PHP, GDScript**. I love discussing and sharing knowledge about these technologies.
 
 - 📫 Reach out to me at **prashasthnair@gmail.com**. I'm always open to collaboration and interesting discussions.
 
