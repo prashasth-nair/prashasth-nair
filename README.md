@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=I%20am%20Prashasth%20Nair&reversal=false&textBg=false&desc=A%20Passionate%20Cybersecurity%20Enthusiast%20and%20Programmer&descSize=-1&descAlignY=50&fontAlignY=33"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Prashasth%20Nair&reversal=false&textBg=false&desc=A%20Passionate%20Cybersecurity%20Enthusiast%20and%20Programmer&descSize=-1&descAlignY=50&fontAlignY=33"/>
 </p>
 
 # About Me
@@ -9,15 +9,13 @@
 
 👨‍💻 Welcome to my world of cyber exploration and code crafting! Here's a bit about me: 
 
-- I’m currently working on **Stocks-API**, which will give details about a particular stock.🔭 
+- 🔭 I’m currently working on **Sweet-Home Browser Extension**, which will change the default new tab to more customizable one. 
 
 - 🌱 I’m currently learning **ExpressJs** and **API's** to broaden my skill set.
 
-- 👨‍💻 All of my projects are available at [**github.com/prashasth-nair**](https://github.com/prashasth-nair). Feel free to explore and contribute!
+- 👨‍💻 All of my projects are available in [**my repositories**](https://github.com/prashasth-nair?tab=repositories). Feel free to explore and contribute!
 
-- 💬 Ask me about **Python, Java, C, HTML, CSS, JavaScript, C#, Kotlin, Rust, Flutter, R Programming, PHP, GDScript**. I love discussing and sharing knowledge about these technologies.
-
-- 📫 Reach out to me at **prashasthnair@gmail.com**. I'm always open to collaboration and interesting discussions.
+- 💬 Ask me about **Programming, Cyber Security and Gaming**. I love discussing and sharing knowledge about these technologies.
 
 - 🚀 Let's code, learn, and grow together in the world of technology! 🌟
 
